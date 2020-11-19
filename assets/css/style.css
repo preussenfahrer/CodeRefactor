@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* from here to .seo is the styling for the label of the webpage: Horiseon */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ body {
 .seo {
     color: #d9dcd6;
 }
-
+/* styling for navigation bar at top of page */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* this styles the entire unordered list */
 .header nav ul {
     list-style-type: none;
 }
-
+/* this applies to each item in the unordered list */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* styling for the main banner picture */
 .hero {
     height: 800px;
     width: 100%;
@@ -68,13 +68,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* from here down is section content for Search Engin Optimization styling */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* This styles the section on Lead Generation */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,17 +85,17 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* styling for each heading in the aside */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* styling for h3 in the aside */
 .benefit-lead h3, .benefit-cost h3, .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* styling for images in each image in sections of the page*/
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
@@ -119,7 +119,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer and footer h2 below are the styling for the footer of the webpage, which includes the copyright info */
 footer {
     padding: 30px;
     clear: both;
